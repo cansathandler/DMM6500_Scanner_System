@@ -1,2 +1,2 @@
 # DMM6500_Scanner_System
-Scanner system of DMM6500
+This repository includes PCB data to be used with DMM 6500 scanner board and SCPI command to measure multi-channel reading.
